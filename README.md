@@ -1,4 +1,5 @@
 eCommerce Transactions Analysis and Modeling
+
 Overview
 This project involves analyzing eCommerce transaction data to extract insights, build predictive models, and segment customers for better business strategy development. The dataset contains customer profiles, product details, and transaction records, and the tasks focus on data exploration, similarity modeling, and clustering.
 
